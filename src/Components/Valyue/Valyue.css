@@ -1,0 +1,43 @@
+.valyue__container{
+    position: relative;
+    display: flex;
+    gap: 500px;
+}
+.valyue__img{
+    position: absolute;
+    right: 1px;
+}
+.valyue__title{
+    margin-top: 200px;
+    width: 450px;
+    height: 140px;
+    font-family: "CircularStd" ,sans-serif;
+    font-size: 45px;
+    line-height: 70px;
+    letter-spacing: -1.875789999961853px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-bottom: 200px;
+}
+.valyue__btn{
+    margin-top: 250px;
+    margin-left: -210px;
+    width: 180px;
+    height: 55px;
+
+    
+    font-family: "CircularStd" ,sans-serif;
+    font-size: 16px;
+    line-height: 18.75px;
+    letter-spacing: -0.5002105832099915px;
+    text-align: center;   
+    color: #FFFFFF; 
+    background: #F04037;
+    border: none;
+    border-radius: 5px;    
+}
+.valyue__btn:hover{
+   background: #F04037;
+   transition: 0.9s;
+   transform: scale(1.2);
+}

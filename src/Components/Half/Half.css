@@ -1,0 +1,23 @@
+.half__title{
+    margin-left: 200px;
+    color: #FFFF;
+    width: 662px;
+    height: 70px;
+    font-family: "CircularStd" ,sans-serif;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: -1.875789999961853px;
+    text-align: center;    
+}
+.half__text{
+    margin-left: 200px;
+    margin-top: 15px;
+    width: 627px;
+    height: 117px;
+    font-family: "CircularStd" ,sans-serif;
+    font-size: 21px;
+    line-height: 39px;
+    letter-spacing: -0.6565263867378235px;
+    text-align: center;   
+    color: #FFFFFFB2; 
+}

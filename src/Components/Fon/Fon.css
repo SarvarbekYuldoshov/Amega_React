@@ -1,0 +1,13 @@
+.fon__container{
+    display: flex;
+}
+.fon__img-a{
+    width: 400px;
+    margin-left: 50px;
+   
+}
+.fon__img-b{
+    width: 900px;
+    height: 550px;
+    margin-left: -120px;
+}

@@ -1,0 +1,24 @@
+.hover__title{
+    margin-top: 100px;
+    color: #FFFF;
+    width: 525px;
+    height: 140px;
+    font-family: "CircularStd" ,sans-serif;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: -1.875789999961853px;
+    text-align: center;   
+    margin-left: 300px;     
+}
+.hover__text{
+    margin-top: 20px;
+    width: 689px;
+    height: 39px;
+    font-family: "CircularStd" ,sans-serif;
+    font-size: 21px;
+    line-height: 39px;
+    letter-spacing: -0.6565263867378235px;
+    text-align: center;
+    color: #FFFFFFB2;
+    margin-left: 200px;  
+}

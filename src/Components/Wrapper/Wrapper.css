@@ -1,0 +1,11 @@
+.wrapper__container{
+    position: relative;
+}
+.wrapper__img{
+    margin-left: -25px;
+}
+.wrapper__img-a{
+    position: absolute;
+    top: 300px;
+    right: 550px;
+}
