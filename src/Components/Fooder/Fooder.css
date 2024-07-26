@@ -1,5 +1,5 @@
 .fooder__container{
-    background: rgb(22, 21, 21);
+    background: rgb(18, 17, 17);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -27,16 +27,16 @@
     left: 0;
     width: 100%;
     height: 2px;
-    background-color:red;
+    background-color:rgb(236, 11, 11);
     transform: scaleX(0); 
     transform-origin: left;
     transition: transform 0.3s ease;
 }
 .fooder__link:hover::after {
     transform: scaleX(1); 
-    background-color:red; 
+    background-color:rgb(235, 14, 14); 
 }
 .fooder__link:hover{
     transform: scale(1.1);
-    color: red;
+    color: rgb(195, 17, 17);
 }
